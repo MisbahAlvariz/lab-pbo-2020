@@ -1,5 +1,5 @@
-class Prak3Lat1 {
-
+class Latihan1 
+{
 	public static void main(String args[]) 
 	{	
 		int a = 10;
