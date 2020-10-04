@@ -1,4 +1,4 @@
-class Latihan2 
+class Assignment 
 {
 	public static void main(String args[]) 
 	{ 

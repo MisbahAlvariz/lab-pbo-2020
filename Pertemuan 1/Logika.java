@@ -1,4 +1,4 @@
-public class Latihan5
+public class Logika
 {
 	public static void main(String args[]) 
 	{ 

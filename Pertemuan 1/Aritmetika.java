@@ -1,4 +1,4 @@
-class Latihan1 
+class Aritmetika 
 {
 	public static void main(String args[]) 
 	{	

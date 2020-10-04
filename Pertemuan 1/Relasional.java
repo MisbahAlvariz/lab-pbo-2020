@@ -1,4 +1,4 @@
-public class Latihan3 
+public class Relasional
 {	
 	public static void main(String args[]) 
 	{ 
