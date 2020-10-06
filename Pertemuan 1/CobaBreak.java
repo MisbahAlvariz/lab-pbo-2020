@@ -22,7 +22,7 @@ public class CobaBreak
 	pada program diatas terdapat int i dan int j
 		int i akan melakukan perulangan sebanyak 10 kali (0-9) kebawah karena i<10 dimana pada setiap barisnya akan terdapat 1 "*"
 		kemudian int j akan melakukan perulangan kesamping sebanyak j<i+1 dimana "*" pada setiap baris akan bertambah 1 lebih banyak dari baris sebelumnya 
-		namun terdapat terdapat seleksi If yaitu apabila j telah sama dengan 5 maka perulangan j akan dihentikan sehingga menghasilkan Output yaitu:
+		namun terdapat terdapat seleksi If dan break yaitu apabila j telah sama dengan 5 maka perulangan j akan dihentikan sehingga menghasilkan Output yaitu:
 		*
 		**
 		***
