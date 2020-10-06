@@ -18,7 +18,7 @@ public class LoopingWhile
 }
 
 /*
-	Program diatas merupakan contoh dari perulangan while yang dipakai pada saat kita melakukan perulangan dengan jumlah yang belum diketahui pasti. 
+	Program diatas merupakan contoh dari perulangan while yang dipakai pada saat kita melakukan perulangan dengan jumlah yang belum diketahui pasti.Pernyataan pada while akan dikerjakan setelah pengecekan kondisi pada while bernilai true. 
 
 	Output Pada Program diatas sama Dengan program LoopingFor yaitu
 	*
@@ -34,5 +34,5 @@ public class LoopingWhile
 	
 	caranya pun sama yaitu:
 	int i akan melakukan perulangan sebanyak 10 kali (0-9) kebawah karena i<10 dimana pada setiap barisnya akan terdapat 1 "*"
-		kemudian int j akan melakukan perulangan kesamping sebanyak j<i+1 dimana "*" pada setiap baris akan bertambah 1 lebih banyak dari baris sebelumnya
+	kemudian int j akan melakukan perulangan kesamping sebanyak j<i+1 dimana "*" pada setiap baris akan bertambah 1 lebih banyak dari baris sebelumnya
 */
