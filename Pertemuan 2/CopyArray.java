@@ -1,4 +1,4 @@
-public class CopyArray {
+public class CopyArray{
 
 public static void main(String args[]) {
 	int[] array1 = { 7, 4, 8, 1, 4, 1, 4 };
