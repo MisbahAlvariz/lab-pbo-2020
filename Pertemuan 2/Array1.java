@@ -18,9 +18,9 @@ public static void main(String args[]) {
 
 /*
 	
-	Baris ke 10 = Looping hingga batas array nilai
- 	Baris ke 11 = menjumlahkan semua nilai yang ada di array satu persatu dan disimpan di ratarata
-	Baris ke 13 = menghitung jumlah rata-rata dari jumlah nilai array yang telah disimpan di ratarata dengan cara dibagi panjang array nilai
-	Baris ke 14 = menampilkan nilai rata-rata yang ditelah dibagi sebelumnya
+	Baris ke 10 untuk melakukan Looping hingga batas array nilai
+ 	Baris ke 11 untuk menjumlahkan semua nilai yang ada di array satu persatu dan disimpan di ratarata
+	Baris ke 13 untuk menghitung jumlah rata-rata dari jumlah nilai array yang telah disimpan di ratarata dengan cara dibagi panjang array nilai
+	Baris ke 14 untuk menampilkan nilai rata-rata yang ditelah dibagi sebelumnya
 
 */
