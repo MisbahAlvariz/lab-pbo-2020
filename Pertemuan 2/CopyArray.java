@@ -16,3 +16,19 @@ public static void main(String args[]) {
 		System.out.print(array2[i] + " ");
 	}
 }
+
+/*
+	Program diatas merupakan program untuk menyalin array ke array lain
+
+	baris ke 7 untuk mengcopy nilai array1 mulai dari array1[0] ke nilai array2[0] sebanyak 3 kali atau dapat ditulis:
+ 		array[0] ke array2[0]
+		array[1] ke array2[2]
+		array[2] ke array2[2]
+	baris ke 8 untuk menampilkan nilai dari Array1 
+	baris ke 10 untuk melakukan looping sampai batas array1
+	baris ke 11 untuk menampilkan nilai dari array1 sesuai i kemudian sesudahnya ditambahkan spasi 
+	baris ke 12 untuk memindahkan output selanjutnya ke baris baru 
+	baris ke 14 untuk menampilkan nilai dari Array2 
+	baris ke 13 untuk melakukan looping sampai batas array2
+	baris ke 14 untuk menampilkan nilai dari array2 sesuai i kemudian sesudahnya ditambahkan spasi 
+*/
