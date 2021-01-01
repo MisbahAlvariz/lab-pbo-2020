@@ -1,0 +1,4 @@
+perbedaan nya:
+Metode overloading adalah polimorfisme waktu kompilasi. Overloading Ini membantu meningkatkan keterbacaan program. 
+
+Metode overriding adalah polimorfisme run time.Sementara itu overriding digunakan untuk memberikan implementasi spesifik pada metode yang sudah tersedia oleh class induknya atau kelas super.
