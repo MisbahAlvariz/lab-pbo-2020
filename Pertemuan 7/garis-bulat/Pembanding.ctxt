@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=boolean\ lebihBesar(java.lang.Object,\ java.lang.Object)
+comment1.params=a\ b
+comment1.target=boolean\ lebihKecil(java.lang.Object,\ java.lang.Object)
+comment2.params=a\ b
+comment2.target=boolean\ samaDengan(java.lang.Object,\ java.lang.Object)
+numComments=3
